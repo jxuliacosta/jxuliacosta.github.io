@@ -1,0 +1,15 @@
+/*
+#C6286C
+#77B4F2
+#2981D9
+#074E8C
+#203175
+#031D40
+*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    overflow-x: hidden;
+    overflow-y: auto;
+    font-family:"Noto Sans" ;
+}
