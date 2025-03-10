@@ -6,10 +6,29 @@
 #203175
 #031D40
 */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 
 body{
     overflow-x: hidden;
     overflow-y: auto;
-    font-family:"Noto Sans" ;
+    font-family: "Noto Sans";
+    margin: 0;
+}
+
+header{
+    width: 100vw;
+    height: 100vh;
+    background-color: #031D40;
+    color:#C6286C;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+header p{
+    margin: 0;
+    text-align: center;
+    font-weight: 600;
+    font-size: 50px;
 }
